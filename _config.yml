@@ -1,11 +1,10 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Gage Briggs # your name (or website title) here
+logo: "/images/photoOfme.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I’m an aspiring security engineer combining software development with offensive security.
+  Through projects and platforms like Hack The Box, I analyze systems, identify weaknesses, and build tools to improve security. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/gage-briggs-608850330/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
