@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Through projects and platforms like Hack The Box, I analyze systems, identify weaknesses, and build tools to improve security. 
   <br><br>
   <a href="https://www.linkedin.com/in/gage-briggs-608850330/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/Exist56">View My Github Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
